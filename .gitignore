@@ -1,0 +1,10 @@
+node_modules/
+dist/
+stateweave-report/
+generated-tests/
+test-results/
+playwright-report/
+blob-report/
+.pnpm-store/
+*.log
+.DS_Store
